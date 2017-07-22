@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get Deal</name>
+   <tag></tag>
+   <elementGuidId>fcbe1436-9b9e-442a-a9c5-b6c8f223fa0f</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deals-grid&quot;)/ul[@class=&quot;gridfix cf deals_grid&quot;]/li[@class=&quot;grid-20 padfix tablet-grid-25&quot;]/div[@class=&quot;deal-box shadow&quot;]/div[@class=&quot;cf pad-lr10 deal-off-percent&quot;]/div[@class=&quot;getdeal ftl&quot;]/a[@class=&quot;btn-getdeal home-page-get-deal gtm-get-deal&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Deal</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-getdeal home-page-get-deal gtm-get-deal</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-href-alt</name>
+      <type>Main</type>
+      <value>/forums/hot-deals-online/topics/lego-block-toys-30-50-off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-href</name>
+      <type>Main</type>
+      <value>https://links.desidime.com?ref=deals&amp;url=https://www.flipkart.com/toys/blocks-constructions/lego~brand/pr%3Fotracker=product_breadCrumbs_Lego+Blocks+%2526+Building+Sets%26p%255B%255D=facets.fulfilled_by%25255B%25255D%253DFlipkart%252BAssured%26p%255B%255D=facets.discount_range_v1%25255B%25255D%253D30%252525%252Bor%252BMore%26sid=mgl%252F61z</value>
+   </webElementProperties>
+</WebElementEntity>
